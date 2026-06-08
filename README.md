@@ -1,72 +1,52 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,45:2563eb,100:22c55e&text=Daigui233&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=48&desc=Code%20with%20curiosity%2C%20build%20with%20patience.&descAlign=50&descAlignY=62" alt="Daigui233 profile banner" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Daigui233.;Learning%2C+building%2C+and+shipping+one+commit+at+a+time.;Always+curious+about+clean+code+and+useful+tools.)](https://git.io/typing-svg)
-
-</div>
-
-## Hi there
-
-I'm **Daigui233**, a developer who enjoys turning ideas into small, practical things.  
-I like clean structure, readable code, and projects that get a little better every day.
-
-- Exploring software development, automation, and useful developer tools
-- Building projects with a focus on clarity and maintainability
-- Learning in public through commits, notes, and experiments
-- Open to collaboration on interesting technical ideas
-
-## Tech Stack
+<!-- 想换横幅时，替换 assets/siturtle-room-banner.png 即可。 -->
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,html,css,react,nodejs,git,github,vscode,linux&perline=7)
+<img src="./assets/siturtle-room-banner.png" alt="呆龟的小房间" width="100%" />
+
+# 你好，这里是 Daigui233
+
+平时是 **呆龟 Daigui**，干活时切换为 **硅龟 Siturtle**。  
+硅龟 = 硅 + 龟，大概是一种正在学习电子信息的硅基生物态。
 
 </div>
 
-## Featured Work
+## 关于我
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| `Project One` | A project worth showing on your profile. | `Python` / `JavaScript` |
-| `Project Two` | A useful tool, experiment, or learning record. | `C++` / `React` |
-| `Project Three` | Something small, polished, and practical. | `Node.js` / `GitHub` |
+我是 **SYSU 电信院 24 级本科生**。
 
-> Replace these with your real repositories once the profile repo is live.
+这里主要放一些学习记录、课程项目和偶尔折腾出来的小东西。  
+技术力还在缓慢加载中，所以这个主页先当作一个比较可爱的自我介绍小角落。
 
-## GitHub Stats
+## 最近在折腾
 
-<div align="center">
+- **信号放大器设计**  
+  和模拟电路、小信号放大、参数计算、焊接调试、仪器测试打交道中。
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Daigui233&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Daigui233 GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daigui233&layout=compact&theme=tokyonight&hide_border=true" alt="Daigui233 top languages" />
+- **智能车项目**  
+  做过一些智能车相关联调：`RK3588S` 上位机、`TC264D` 下位机、视觉巡线、AR / AprilTag 定位转发、串口控车和安全停车逻辑。  
+  这个项目目前是 private，就先简单记一笔。
 
-<br />
+- **一些 EE 日常**  
+  示波器、万用表、面包板、跳线和一些“为什么它又不工作了”的小问题。
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Daigui233&theme=tokyonight&hide_border=true" alt="Daigui233 contribution streak" />
-
-</div>
-
-## Current Focus
+## 呆龟 / 硅龟模式
 
 ```text
-Learning      Better engineering habits
-Building      Practical tools and personal projects
-Improving     Code quality, documentation, and product sense
+呆龟模式    缓慢加载中，偶尔发呆，适合晒太阳和补觉
+硅龟模式    接上示波器和万用表，开始把问题拆开
+当前状态    在电子信息的路上慢慢爬行
 ```
 
-## Connect
+## 小小备忘
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Daigui233-181717?style=for-the-badge&logo=github)](https://github.com/Daigui233)
-
-</div>
+我不一定很厉害，但会尽量把做过的东西留下来。  
+如果某天这里突然变得很像样，那大概是硅龟上线了。
 
 ---
 
 <div align="center">
 
-Thanks for visiting. Keep building, one thoughtful commit at a time.
+谢谢你路过呆龟的小房间。
 
 </div>
